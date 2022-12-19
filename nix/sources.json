@@ -1,0 +1,26 @@
+{
+    "fzf": {
+        "branch": "0.35.1",
+        "description": ":cherry_blossom: A command-line fuzzy finder",
+        "homepage": "",
+        "owner": "junegunn",
+        "repo": "fzf",
+        "rev": "b55f5554871e548c9c00a49df7a92f980c0191c2",
+        "sha256": "1yxijqwy52pwh7kn6mhxqjhsdyphjna2svv4fxa4i9lsmv7zyzv6",
+        "type": "tarball",
+        "url": "https://github.com/junegunn/fzf/archive/b55f5554871e548c9c00a49df7a92f980c0191c2.tar.gz",
+        "url_template": "https://github.com/<owner>/<repo>/archive/<rev>.tar.gz"
+    },
+    "nixpkgs": {
+        "branch": "release-21.05",
+        "description": "Nix Packages collection",
+        "homepage": "",
+        "owner": "NixOS",
+        "repo": "nixpkgs",
+        "rev": "5f244caea76105b63d826911b2a1563d33ff1cdc",
+        "sha256": "1xlgynfw9svy7nvh9nkxsxdzncv9hg99gbvbwv3gmrhmzc3sar75",
+        "type": "tarball",
+        "url": "https://github.com/NixOS/nixpkgs/archive/5f244caea76105b63d826911b2a1563d33ff1cdc.tar.gz",
+        "url_template": "https://github.com/<owner>/<repo>/archive/<rev>.tar.gz"
+    }
+}
